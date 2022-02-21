@@ -1,0 +1,24 @@
+Asrock_z490m-Itx_iGPU_OC0.78
+
+配置：
+CPU：Intel i5-10400（理论支持所有十代CPU）
+主板：Asrock Z490M itx/ac
+SSD：Asgard AN2 250NVMe-M.2
+Wi-Fi：Intel Wifi 更换为Intel AC 8265
+内存；ADATA DDR4 3200 32G
+显卡：核显 UHD630
+
+Config：
+Opencore_v0.78
+kext驱动到最新正式版本
+支持11.6正式版、12.x
+支持核显HDMI&DP双显示输出
+支持Intel Wifi(默认kext为MacOS 12使用)
+
+工作情况：
+CPU正常睿频
+核显双硬解正常
+音频输出正常(alcid=69)
+支持有线双网卡(1000M+2.5G)
+蓝牙、WiFi正常，隔空、接力、随航不可用
+睡眠及唤醒正常
